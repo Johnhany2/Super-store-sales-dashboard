@@ -10,7 +10,7 @@ Analyzed sales data using Python and Power BI to extract insights.
 
 ## Key Insights
 - Increased sales trend in Q4
-- Top performing region: Cairo
+- Top performing region: West
 
 ## Project Files
 - data.csv
